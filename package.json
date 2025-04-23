@@ -1,0 +1,26 @@
+{
+  "name": "parcialbdm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrayhanOrtiz/parcialBDM.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrayhanOrtiz/parcialBDM/issues"
+  },
+  "homepage": "https://github.com/BrayhanOrtiz/parcialBDM#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "pg": "^8.15.1",
+    "postgres": "^3.4.5"
+  },
+  "description": ""
+}
