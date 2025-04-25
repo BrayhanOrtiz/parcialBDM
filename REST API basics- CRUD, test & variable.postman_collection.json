@@ -35,6 +35,22 @@
 						"url": "http://localhost:3000/api/guardarRestaurante"
 					},
 					"response": []
+				},
+				{
+					"name": "actualiza",
+					"request": {
+						"method": "PUT",
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "elimina",
+					"request": {
+						"method": "DELETE",
+						"header": []
+					},
+					"response": []
 				}
 			]
 		}

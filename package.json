@@ -22,5 +22,6 @@
     "pg": "^8.15.1",
     "postgres": "^3.4.5"
   },
+  "devDependencies": {},
   "description": ""
 }
